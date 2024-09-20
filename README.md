@@ -1,4 +1,9 @@
 ## Hi there 👋
+- My name is Parkhi 😀
+- I am from Singapore 🇸🇬
+- I am currently pursuing my Masters in Public Administration from Columbia University in New York 🇺🇸
+- I am passionate about contributing to research and projects that help mitigate the adverse effects of climate change 🌳
+- Fun fact: I have been dancing since I was 4 and have been trained in 6 dance forms 💃
 
 <!--
 **parkhi0402/parkhi0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
